@@ -1,5 +1,5 @@
 ---
-title: "Temperature 0.5 Run 2 Sample 1"
+title: "Temperature 0.5 Run 2 Sample 6"
 date: 2021-03-13T17:45:51-05:00
 draft: false
 categories: ["Samples"]

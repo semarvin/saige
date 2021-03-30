@@ -7,6 +7,7 @@ tags: ["Temperature 0.5"]
 ---
 
 ======================================== SAMPLE 4 ========================================
+
 The sun is always on my left. I leave this area, which is only a few hundred meters from the main road. I go toward the house of the taxi-seller. He is on my right. I say:
 "The house on your left is yours. I'll go meet Nadja."
 Nadja is waiting for me at the corner of the Rue Lafayette and the Rue de Crimée. She seems quite at home in the shadow of the walls, set on a bench on the right, like everyone else on this side of the road. A keyless- vout is left on the ground. A letter says I must leave. But Nadja says she doesn't want to see me. She scolds me for thinking I'm immortal. 
